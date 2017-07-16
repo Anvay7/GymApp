@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.1_4a7a3cd091a0486cfd18efa601514e842e0a7161\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-customtabs-25.3.1_bf0e843c3ddb1103e5af62e1fb922cab8abbd914\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.1_f131b2c28ff8904d2131a955a9dcfada33647fee\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.1_33fc6a2ed168eaca3265c6d02b9061fb0e8dd9ea\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.1_40c4a9c6f592a5f379660d7aad71a291f6b19b90\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.1_7bfc8db12a1dfd687c782e99491cff0b4a128744\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.1_2cd6f8de5dc5a10b27bb15dee0121c32a6eb79fa\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="042b8e707eaa5ec74a0db378f9e04ab275f088a0">
+        <dex dex="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1d2804b435b1c0e0d4d53a9c04f4baa67365b2dc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.3.1_ce9d9bc4860ac3c8dd941150aa0c269a1b49b961\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.24.0\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="0e0e8918eb74e3ee9e82eef6430a4359b2b577d3">
+        <dex dex="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.24.0_b1253a8e3510a87977888d6a77fa8ce7cc75753e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anvay\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_2d9db15904d574f432bacb8fa44f656429c522af\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anvay\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-applinks-1.4.0_5e694a75ff37b068e81ec9e41c56e3742b81a3c8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="ed69d2cbc192da1814a3448d9d08e45f9d98afb8">
+        <dex dex="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_ab75a9d0b01217df4fcab516ade1f7bbb173bca1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.1_9413285285fdf665a14c0ecabbe92a0326043b3b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.1_9ca25a821d9ab5c34fab4962f3f5dff3e2a899b0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.1_69b5e7758c16cc5416ddf83d1f7789948baecaea\classes.dex" />
+    </item>
+    <item
+        jar="C:\AndroidSetup\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Anvay\AndroidStudioProjects\Gym\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_016f8dae3fa84ada9d62646193f64b9d20107cb2\classes.dex" />
+    </item>
+
+</items>
