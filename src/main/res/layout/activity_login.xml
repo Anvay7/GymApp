@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gy"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.anvay.gym.Login">
+
+    <!--  Header Starts-->
+    <LinearLayout android:id="@+id/header"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+
+        android:paddingTop="5dip"
+        android:paddingBottom="5dip"
+        android:weightSum="1"
+        android:layout_above="@+id/linearLayout">
+        <com.facebook.login.widget.LoginButton
+            android:id="@+id/login_button"
+            android:layout_width="match_parent"
+            android:layout_height="157dp"
+            android:layout_above="@+id/header"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="72dp" />
+    </LinearLayout>
+    <!--  Header Ends -->
+
+    <!-- Footer Start -->
+    <LinearLayout android:id="@+id/footer"
+        android:layout_width="fill_parent"
+        android:layout_height="90dip"
+
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal">
+    </LinearLayout>
+    <!-- Place footer next to header to set z-index property to minus value -->
+    <!-- Footer Ends -->
+
+    <!-- Login Form -->
+    <LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dip"
+        android:layout_alignBottom="@+id/footer"
+        android:id="@+id/linearLayout">
+        <!--  Email Label -->
+        <TextView android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:text="Email"/>
+        <EditText android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dip"
+            android:layout_marginBottom="20dip"
+            android:singleLine="true"
+            android:textColor="#ffffff" />
+        <!--  Password Label -->
+        <TextView android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:text="Password"/>
+        <EditText android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dip"
+            android:singleLine="true"
+            android:password="true"
+            android:textColor="#ffffff" />
+        <!-- Login button -->
+        <Button android:id="@+id/btnLogin"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dip"
+            android:text="Login"/>
+        <!-- Link to Registration Screen -->
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="LOGIN AND BEGIN YOUR JOURNEY"
+        android:id="@+id/textView3"
+        android:layout_alignParentTop="true"
+        android:textSize="26sp"
+        android:textColor="#FFFFFFFF"
+        android:fontFamily="sans-serif"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:layout_marginTop="56dp" />
+    <!-- Login Form Ends -->
+
+</RelativeLayout>
